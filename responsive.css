@@ -1,0 +1,30 @@
+@media (max-width:1000px) {
+  .header-list a{
+    padding:0 10px;
+    margin:0 0;
+  }
+  .product{
+    width: 50%;
+  }
+
+}
+
+@media (max-width:670px) {
+  .box{
+    width: 100%;
+  }
+  p.box{
+    font-size: 25px;
+  }
+  .header-list{
+    display: none;
+  }
+  .menu-icon{
+    display: block;
+
+  }
+  .product{
+    width: 100%;
+  }
+
+}
